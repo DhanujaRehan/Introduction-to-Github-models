@@ -31,3 +31,5 @@ async function analyzeSentiment(text) {
 // Example usage
 const userText = "I love learning new things!";
 analyzeSentiment(userText);
+
+
